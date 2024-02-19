@@ -1,4 +1,4 @@
-# Airbnb JavaScript Style Guide() {
+ .d,nvljns.lvhs.lhf.lshf.hs.vhshv.l# Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
 
